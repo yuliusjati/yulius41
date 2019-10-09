@@ -13,6 +13,8 @@
 ![AltText](https://github.com/yuliusjati/yulius41/blob/master/Screenshot%20(102).png)
 # hasil 7
 ![AltText](https://github.com/yuliusjati/yulius41/blob/master/Screenshot%20(103).png)
+# hasil 8
+![AltText](https://github.com/yuliusjati/yulius41/blob/master/Screenshot%20(104).png)
 # latihan 4
 ![AltText](Setmerk &setnama)
 # TugasEksplorasi
