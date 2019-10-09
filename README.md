@@ -13,3 +13,7 @@
 ![AltText](https://github.com/yuliusjati/yulius41/blob/master/Screenshot%20(102).png)
 # hasil 7
 ![AltText](https://github.com/yuliusjati/yulius41/blob/master/Screenshot%20(103).png)
+# latihan 4
+![AltText](Setmerk &setnama)
+# TugasEksplorasi
+![AltText](jad hasil yang muncul pada pemrograman diatas adalah berkoma karena telah diubah menjadi double)
