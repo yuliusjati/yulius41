@@ -18,6 +18,6 @@
 # TugasEksplorasi
 ![AltText](jad hasil yang muncul pada pemrograman diatas adalah berkoma karena telah diubah menjadi double)
 # pengertian
-![AltText](object yaitu sebuah presentasi dari sebuah class
-          class rancangan yang mengidentifikasi variable
-          adalah nama dari suatu program)
+![AltText](object yaitu sebuah presentasi dari sebuah class, 
+          class rancangan yang mengidentifikasi variable, 
+          method adalah nama dari suatu program)
